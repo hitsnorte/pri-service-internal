@@ -1,0 +1,21 @@
+{
+    "RunAt": "08:00",
+    "ApiUrl": "http://192.168.27.82:2018/WebApi/",
+    "Mode": "Diario",
+    "StartDate": "2025-06-27",
+    "EndDate": "2025-06-27",
+    "ResendDocs": "Nao",
+    "ResendFrom": "2025-07-20",
+    "ResendTo": "2025-07-20",
+    "ConnectionString": "Server=192.168.145.4;Database=protelsevero;User Id=protelusersevero;Password=protel915930;Integrated Security=False;MultipleActiveResultSets=True;",
+    "Authorization": {
+        "username": "Protel",
+        "password": "10yceKm7Th8G",
+        "company": "CLONE",
+        "instance": "DEFAULT",
+        "grant_type": "password",
+        "line": "professional",
+        "firstToken": "",
+        "secondToken": "QGUm44gqK-UgFNTzIKNNtNOVUOQTfATB50BfMO6FW5BfLNw07plcOKQi9rCbn3MYJtQMKpU6dSyHA9s_qJV1YvVn0Lpn-tkC_SVoIFL5nCcfHCsS4LgiYV-4p_RAon2WlZf7WX60IhTH6qz28pdF31ck4YVF4oMEwRIgmC0ICE_DaoxQvcYE7Bcwb9gTMEyVW8Q_URq7_Gi1Q9PdOvpFJfMQx-7OXaF8lqQ1oVz8rJmYhf0A7Gzz3wyJBHJzLANB21GHV8wmngC7QsKc2ijPQTqhEfKss1TbuItt_9lFHYVsblwtaMdqdQoLMmgNwXqf6q-fEPgjymzb2mHAotbKsRrsp2Uv_6K7A9OU0xtu0SUCCqfCW-z95G7yKX_pNfrkOm_pdqrnuJbqXsZJOOZfzvQXCkbCFqUAJEdp6FSnRFS4b53CgVVi8qzyfaEe2zJeLtiSpyUpwt_Y3i-tVn7bFotT4yh1nfuIogHSpy6o5UWgow0aGb5DwGMtlN1g2oYbGH6YUoQDLG2ZVu8ULHc5HMQoRoifuvksyYYejsrDTP4NkLGyPk4srrFVPr3xyci034JHG1Lj3XnOAlUQZhWRKjbMAapySC1zvyceayhapHy0YhbJFKCOKS-Mh8_qubi3"
+    }
+}
