@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3DMicro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f370a220039969f1bc631cd82f8f2d6eb71f6ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("3DMicro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3DMicro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
